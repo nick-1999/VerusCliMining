@@ -1,18 +1,18 @@
 {
 	"pools":[
 	{
-		"name": "Zergpool",
-        	"url": "stratum+tcp://verushash.na.mine.zergpool.com:3300",
+		"name": "Vipor",
+        	"url": "stratum+tcp://ca.vipor.net:5040",
 		"timeout": 150
 	},
 	{
-		"name": "Zergpool",
-        	"url": "stratum+tcp://verushash.na.mine.zergpool.com:3300",
+		"name": "Vipor",
+        	"url": "stratum+tcp://ca.vipor.net:5040",
 		"timeout": 150
 	},
 	{
-		"name": "Zergpool",
-        	"url": "stratum+tcp://verushash.na.mine.zergpool.com:3300",
+		"name": "Vipor",
+        	"url": "stratum+tcp://ca.vipor.net:5040",
 		"timeout": 150
 	}
 	],
