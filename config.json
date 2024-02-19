@@ -1,18 +1,18 @@
 {
 	"pools":[
 	{
-		"name": "Luck1",
-        	"url": "stratum+tcp://na.luckpool.net:3956",
+		"name": "Zergpool",
+        	"url": "stratum+tcp://verushash.na.mine.zergpool.com:3300",
 		"timeout": 150
 	},
 	{
-		"name": "Luck2",
-        	"url": "stratum+tcp://na.luckpool.net:3956",
+		"name": "Zergpool",
+        	"url": "stratum+tcp://verushash.na.mine.zergpool.com:3300",
 		"timeout": 150
 	},
 	{
-		"name": "Luck3",
-        	"url": "stratum+tcp://na.luckpool.net:3956",
+		"name": "Zergpool",
+        	"url": "stratum+tcp://verushash.na.mine.zergpool.com:3300",
 		"timeout": 150
 	}
 	],
